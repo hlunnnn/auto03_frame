@@ -1,0 +1,22 @@
+{
+    "login_success": {
+        "username": "0fc9949f1eb384bfb4dccbc58e5a026235f333e18877f3ddf075d1c553db660c",
+        "password": "201bc869fb7ced4023225898ceada7c8",
+        "pictureCode": "9999",
+        "state": "200"
+    },
+
+    "login_wrong_username": {
+        "username": "5023f8bac28e6fe254e92011564fdcab35f333e18877f3ddf075d1c553db660c",
+        "password": "201bc869fb7ced4023225898ceada7c8",
+        "pictureCode": "9999",
+        "state": "NOT_CORP_USER_VALID"
+    },
+
+    "login_wrong_password": {
+        "username": "0fc9949f1eb384bfb4dccbc58e5a026235f333e18877f3ddf075d1c553db660c",
+        "password": "d5ad495b0c8a04e499f9873bdcdb2de930ac1b95827fad8b177778d2d4f038c0",
+        "pictureCode": "9999",
+        "state": "LOGIN_FAIL_000006"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "both_none": {
+        "mobile": "13771062596",
+        "password": "11"
+    },
+    "mobile_none": {
+    },
+    "code_timeout": {
+        "mobile": "213131",
+        "password": "999"
+    },
+    "both_right": {
+        "mobile": "11111",
+        "password": "999"
+    }
+}
